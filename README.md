@@ -17,3 +17,7 @@
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/12910?language=java" rel="nofollow">11. 나누어 떨어지는 숫자 배열</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_12910.java" rel="nofollow">code</a></li>
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/12912?language=java" rel="nofollow">12. 두 정수 사이의 합</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_12912.java" rel="nofollow">code</a></li>
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/12915?language=java" rel="nofollow">13. 문자열 내 마음대로 정렬하기</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_12915.java" rel="nofollow">code</a></li>
+<li><a href="https://programmers.co.kr/learn/courses/30/lessons/12916?language=java" rel="nofollow">14. 문자열 내 p와 y의 개수</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_12916.java" rel="nofollow">code</a></li>
+
+#### < Level 2 >
+<li><a href="https://programmers.co.kr/learn/courses/30/lessons/42587" rel="nofollow">01. 프린터</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_2/Q_42587.java" rel="nofollow">code</a></li>
