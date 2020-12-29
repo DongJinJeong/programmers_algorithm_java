@@ -21,3 +21,5 @@
 
 #### < Level 2 >
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/42587" rel="nofollow">01. 프린터</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_2/Q_42587.java" rel="nofollow">code</a></li>
+<li><a href="https://programmers.co.kr/learn/courses/30/lessons/42586" rel="nofollow">02. 기능개발</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_2/Q_42586.java" rel="nofollow">code</a></li>
+<li><a href="https://programmers.co.kr/learn/courses/30/lessons/42626" rel="nofollow">03. 더 맵게</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_2/Q_42626.java" rel="nofollow">code</a></li>
