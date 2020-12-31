@@ -18,6 +18,7 @@
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/12912?language=java" rel="nofollow">12. 두 정수 사이의 합</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_12912.java" rel="nofollow">code</a></li>
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/12915?language=java" rel="nofollow">13. 문자열 내 마음대로 정렬하기</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_12915.java" rel="nofollow">code</a></li>
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/12916?language=java" rel="nofollow">14. 문자열 내 p와 y의 개수</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_12916.java" rel="nofollow">code</a></li>
+<li><a href="https://programmers.co.kr/learn/courses/30/lessons/12917?language=java" rel="nofollow">15. 문자열 내림차순으로 배치하기</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_12917.java" rel="nofollow">code</a></li>
 
 #### < Level 2 >
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/42587" rel="nofollow">01. 프린터</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_2/Q_42587.java" rel="nofollow">code</a></li>
@@ -25,3 +26,5 @@
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/42626" rel="nofollow">03. 더 맵게</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_2/Q_42626.java" rel="nofollow">code</a></li>
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/42839" rel="nofollow">04. 소수 찾기</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_2/Q_42839.java" rel="nofollow">code</a></li>
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/42577" rel="nofollow">05. 전화번호 목록</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_2/Q_42577.java" rel="nofollow">code</a></li>
+<li><a href="https://programmers.co.kr/learn/courses/30/lessons/42746" rel="nofollow">06. 가장 큰 수</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_2/Q_42746.java" rel="nofollow">code</a></li>
+<li><a href="https://programmers.co.kr/learn/courses/30/lessons/43165" rel="nofollow">07. 타겟 넘버</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_2/Q_43165.java" rel="nofollow">code</a></li>
