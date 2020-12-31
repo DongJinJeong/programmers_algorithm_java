@@ -19,6 +19,7 @@
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/12915?language=java" rel="nofollow">13. 문자열 내 마음대로 정렬하기</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_12915.java" rel="nofollow">code</a></li>
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/12916?language=java" rel="nofollow">14. 문자열 내 p와 y의 개수</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_12916.java" rel="nofollow">code</a></li>
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/12917?language=java" rel="nofollow">15. 문자열 내림차순으로 배치하기</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_12917.java" rel="nofollow">code</a></li>
+<li><a href="https://programmers.co.kr/learn/courses/30/lessons/12918?language=java" rel="nofollow">16. 문자열 다루기 기본</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_12918.java" rel="nofollow">code</a></li>
 
 #### < Level 2 >
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/42587" rel="nofollow">01. 프린터</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_2/Q_42587.java" rel="nofollow">code</a></li>
