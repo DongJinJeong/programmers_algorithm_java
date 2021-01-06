@@ -31,6 +31,7 @@
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/12931?language=java" rel="nofollow">25. 자릿수 더하기</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_12931.java" rel="nofollow">code</a></li>
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/12932?language=java" rel="nofollow">26. 자연수 뒤집어 배열로 만들기</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_12932.java" rel="nofollow">code</a></li>
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/12933?language=java" rel="nofollow">27. 정수 내림차순으로 배치하기</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_12933.java" rel="nofollow">code</a></li>
+<li><a href="https://programmers.co.kr/learn/courses/30/lessons/12934?language=java" rel="nofollow">28. 정수 제곱근 판별</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_12934.java" rel="nofollow">code</a></li>
 
 #### < Level 2 >
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/42587" rel="nofollow">01. 프린터 (스택/큐)</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_2/Q_42587.java" rel="nofollow">code</a></li>
