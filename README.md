@@ -42,3 +42,4 @@
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/42577" rel="nofollow">04. 전화번호 목록 (해시)</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_2/Q_42577.java" rel="nofollow">code</a></li>
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/42746" rel="nofollow">05. 가장 큰 수 (정렬)</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_2/Q_42746.java" rel="nofollow">code</a></li>
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/43165" rel="nofollow">06. 타겟 넘버 (BFS/DFS)</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_2/Q_43165.java" rel="nofollow">code</a></li>
+<li><a href="https://programmers.co.kr/learn/courses/30/lessons/12899?language=java" rel="nofollow">07. 124 나라의 숫자</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_2/Q_12899.java" rel="nofollow">code</a></li>
