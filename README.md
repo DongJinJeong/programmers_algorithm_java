@@ -37,6 +37,7 @@
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/67256?language=java" rel="nofollow">31. 키패드 누르기</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_67256.java" rel="nofollow">code</a></li>
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/12940?language=java" rel="nofollow">32. 최대공약수와 최소공배수</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_12940.java" rel="nofollow">code</a></li>
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/12943?language=java" rel="nofollow">33. 콜라츠 추측</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_12943.java" rel="nofollow">code</a></li>
+<li><a href="https://programmers.co.kr/learn/courses/30/lessons/12944?language=java" rel="nofollow">34. 평균 구하기</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_12944.java" rel="nofollow">code</a></li>
 
 #### < Level 2 >
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/42587" rel="nofollow">01. 프린터 (스택/큐)</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_2/Q_42587.java" rel="nofollow">code</a></li>
