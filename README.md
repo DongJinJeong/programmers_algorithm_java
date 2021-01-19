@@ -46,6 +46,7 @@
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/12982?language=java" rel="nofollow">40. 예산</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_12982.java" rel="nofollow">code</a></li>
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/17681?language=java" rel="nofollow">41. [1차] 비밀지도</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_17681.java" rel="nofollow">code</a></li>
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/42889?language=java" rel="nofollow">42. 실패율</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_42889.java" rel="nofollow">code</a></li>
+<li><a href="https://programmers.co.kr/learn/courses/30/lessons/17682?language=java" rel="nofollow">43. [1차] 다트게임</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_1/Q_17682.java" rel="nofollow">code</a></li>
 
 #### < Level 2 >
 <li><a href="https://programmers.co.kr/learn/courses/30/lessons/42587" rel="nofollow">01. 프린터 (스택/큐)</a> / <a href="https://github.com/DongJinJeong/programmers_algorithm_java/blob/main/Level_2/Q_42587.java" rel="nofollow">code</a></li>
